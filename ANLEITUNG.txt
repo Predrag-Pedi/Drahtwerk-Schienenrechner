@@ -1,0 +1,15 @@
+DRAHTWERK SCHIENENRECHNER – KOSTENLOSE IPAD-WEB-APP
+
+1. Auf github.com ein kostenloses Konto erstellen.
+2. Neues Repository erstellen, z. B. drahtwerk-schienenrechner. Repository auf Public setzen.
+3. Alle fünf Dateien aus diesem Ordner in die oberste Ebene des Repository hochladen (Add file > Upload files > Commit changes).
+4. Settings > Pages > Build and deployment: Deploy from a branch; Branch main, Folder /(root); Save.
+5. Nach einigen Minuten erscheint die Adresse unter Settings > Pages.
+6. Auf jedem iPad die Adresse in Safari öffnen, Teilen > Zum Home-Bildschirm > Hinzufügen.
+7. Einmal mit Internet öffnen und vollständig laden lassen. Danach sollte die Web-App auch offline aus dem Cache starten.
+
+HINWEISE:
+- GitHub Pages ist öffentlich: Jeder, der die Adresse kennt, kann die App verwenden und den Quellcode sehen. Keine vertraulichen Informationen veröffentlichen.
+- Eingaben werden nur lokal auf dem jeweiligen Gerät gespeichert und nicht zwischen iPads synchronisiert.
+- Nach Updates die App bei Internetverbindung neu laden.
+- Der erste Aufruf benötigt Internet; die Offline-Funktion muss auf jedem iPad getestet werden.
